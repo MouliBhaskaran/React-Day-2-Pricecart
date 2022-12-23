@@ -68,6 +68,7 @@ function App() {
   ];
   return (
     <section className="pricing py-5">
+    <h1 className="heading">PRICE CART by Mouli Bhaskaran</h1>
       <div className="container">
         <div className="row">
           {data.map((e) => {

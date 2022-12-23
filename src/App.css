@@ -3,6 +3,14 @@ section.pricing {
   background: linear-gradient(to right, #0062E6, #33AEFF);
 }
 
+.heading{
+  padding-top: -15px !important;
+  padding-bottom: 15px !important;
+  text-align: center;
+  text-decoration: 5px underline solid black;
+  color: whitesmoke;
+}
+
 .pricing .card {
   border: none;
   border-radius: 1rem;
